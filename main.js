@@ -1,12 +1,12 @@
 function tocaSomOmaga(){
      document.querySelector('#som_tecla_Omaga').play();
 }
-document.querySelector('.tecla_omaga').onclick = tocaSomOmaga;
+document.querySelector('.tecla_Omaga').onclick = tocaSomOmaga;
 
 function tocaSomHihihiha(){
      document.querySelector('#som_tecla_Hihihiha').play();
 }
-document.querySelector('.tecla_hihihiha').onclick = tocaSomHihihiha;
+document.querySelector('.tecla_Hihihiha').onclick = tocaSomHihihiha;
 
 function tocaSomTom(){
      document.querySelector('#som_tecla_tom').play();
