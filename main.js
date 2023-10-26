@@ -13,10 +13,10 @@ function tocaSomTom(){
 }
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
-function tocaSomPuff(){
-     document.querySelector('#som_tecla_puff').play();
+function tocaSomChoro(){
+     document.querySelector('#som_tecla_choro').play();
 }
-document.querySelector('.tecla_puff').onclick = tocaSomPuff;
+document.querySelector('.tecla_choro').onclick = tocaSomChoro;
 
 
 function tocaSomSplash(){
