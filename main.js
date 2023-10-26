@@ -14,7 +14,7 @@ function tocaSomTom(){
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
 function tocaSomChoro(){
-     document.querySelector('#som_tecla_choro').play();
+     document.querySelector('#som_tecla_Choro').play();
 }
 document.querySelector('.tecla_choro').onclick = tocaSomChoro;
 
