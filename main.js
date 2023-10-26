@@ -25,10 +25,10 @@ function tocaSomTommy(){
 document.querySelector('.tecla_tommy').onclick = tocaSomTommy;
 
 
-function tocaSomToim(){
-     document.querySelector('#som_tecla_toim').play();
+function tocaSomPateta(){
+     document.querySelector('#som_tecla_Pateta').play();
 }
-document.querySelector('.tecla_toim').onclick = tocaSomToim;
+document.querySelector('.tecla_pateta').onclick = tocaSomPateta;
 
 function tocaSomPsh(){
      document.querySelector('#som_tecla_psh').play();
