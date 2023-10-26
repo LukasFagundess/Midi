@@ -8,10 +8,10 @@ function tocaSomHihihiha(){
 }
 document.querySelector('.tecla_hihihiha').onclick = tocaSomHihihiha;
 
-function tocaSomTom(){
-     document.querySelector('#som_tecla_Tom').play();
+function tocaSomThomas(){
+     document.querySelector('#som_tecla_Thomas').play();
 }
-document.querySelector('.tecla_tom').onclick = tocaSomTom;
+document.querySelector('.tecla_thomas').onclick = tocaSomThomas;
 
 function tocaSomChoro(){
      document.querySelector('#som_tecla_Choro').play();
