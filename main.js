@@ -3,10 +3,10 @@ function tocaSomOmaga(){
 }
 document.querySelector('.tecla_omaga').onclick = tocaSomOmaga;
 
-function tocaSomClap(){
-     document.querySelector('#som_tecla_clap').play();
+function tocaSomHihihiha(){
+     document.querySelector('#som_tecla_Hihihiha').play();
 }
-document.querySelector('.tecla_clap').onclick = tocaSomClap;
+document.querySelector('.tecla_hihihiha').onclick = tocaSomHihihiha;
 
 function tocaSomTim(){
      document.querySelector('#som_tecla_tim').play();
