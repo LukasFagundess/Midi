@@ -19,10 +19,10 @@ function tocaSomChoro(){
 document.querySelector('.tecla_choro').onclick = tocaSomChoro;
 
 
-function tocaSomSplash(){
-     document.querySelector('#som_tecla_splash').play();
+function tocaSomTommy(){
+     document.querySelector('#som_tecla_Tommy').play();
 }
-document.querySelector('.tecla_splash').onclick = tocaSomSplash;
+document.querySelector('.tecla_tommy').onclick = tocaSomTommy;
 
 
 function tocaSomToim(){
