@@ -1,7 +1,7 @@
 function tocaSomOmaga(){
      document.querySelector('#som_tecla_omaga').play();
 }
-document.querySelector('.tecla_pom').onclick = tocaSomPom;
+document.querySelector('.tecla_omaga').onclick = tocaSomOmaga;
 
 function tocaSomClap(){
      document.querySelector('#som_tecla_clap').play();
