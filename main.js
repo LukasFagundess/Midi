@@ -40,7 +40,7 @@ function tocaSomWoman(){
 }
 document.querySelector('.tecla_woman').onclick = tocaSomWoman;
 
-function tocaSomTom(){
-     document.querySelector('#som_tecla_tom').play();
+function tocaSomZoio(){
+     document.querySelector('#som_tecla_Zoio').play();
 }
-document.querySelector('.tecla_tom').onclick = tocaSomTom;
+document.querySelector('.tecla_zoio').onclick = tocaSomZoio;
