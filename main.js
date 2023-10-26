@@ -35,10 +35,10 @@ function tocaSomManga(){
 }
 document.querySelector('.tecla_manga').onclick = tocaSomManga;
 
-function tocaSomTic(){
-     document.querySelector('#som_tecla_tic').play();
+function tocaSomWoman(){
+     document.querySelector('#som_tecla_Woman').play();
 }
-document.querySelector('.tecla_tic').onclick = tocaSomTic;
+document.querySelector('.tecla_woman').onclick = tocaSomWoman;
 
 function tocaSomTom(){
      document.querySelector('#som_tecla_tom').play();
