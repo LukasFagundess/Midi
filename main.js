@@ -9,7 +9,7 @@ function tocaSomHihihiha(){
 document.querySelector('.tecla_hihihiha').onclick = tocaSomHihihiha;
 
 function tocaSomTom(){
-     document.querySelector('#som_tecla_tom').play();
+     document.querySelector('#som_tecla_Tom').play();
 }
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
