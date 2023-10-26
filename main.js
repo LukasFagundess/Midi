@@ -30,10 +30,10 @@ function tocaSomPateta(){
 }
 document.querySelector('.tecla_pateta').onclick = tocaSomPateta;
 
-function tocaSomPsh(){
-     document.querySelector('#som_tecla_psh').play();
+function tocaSomManga(){
+     document.querySelector('#som_tecla_Manga').play();
 }
-document.querySelector('.tecla_psh').onclick = tocaSomPsh;
+document.querySelector('.tecla_manga').onclick = tocaSomManga;
 
 function tocaSomTic(){
      document.querySelector('#som_tecla_tic').play();
