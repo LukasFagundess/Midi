@@ -13,10 +13,10 @@ function tocaSomXandão(){
 }
 document.querySelector('.tecla_xandão').onclick = tocaSomXandão;
 
-function tocaSomChoro(){
-     document.querySelector('#som_tecla_Choro').play();
+function tocaSomBubina(){
+     document.querySelector('#som_tecla_Bubina').play();
 }
-document.querySelector('.tecla_choro').onclick = tocaSomChoro;
+document.querySelector('.tecla_bubina').onclick = tocaSomBubina;
 
 
 function tocaSomTommy(){
